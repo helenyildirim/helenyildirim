@@ -8,26 +8,33 @@ I build mobile games with Expo, React Native and TypeScript, from the visual des
 
 <table>
   <tr>
-    <td width="33%" valign="top">
+    <td width="25%" valign="top">
       <a href="https://github.com/helenyildirim/block-puzzle"><img src="assets/block-puzzle.png" alt="Block Puzzle game screen" /></a>
       <h3><a href="https://github.com/helenyildirim/block-puzzle">Block Puzzle</a></h3>
       An 8x8 block puzzle with a daily challenge, combo scoring, sound and saved games.
       <br /><br />
       <code>TypeScript</code> <code>Expo Router</code>
     </td>
-    <td width="33%" valign="top">
+    <td width="25%" valign="top">
       <a href="https://github.com/helenyildirim/water-sort"><img src="assets/water-sort.png" alt="Water Sort game screen" /></a>
       <h3><a href="https://github.com/helenyildirim/water-sort">Water Sort</a></h3>
       A pouring puzzle with 300 solver-checked levels, liquid animation and code-drawn art.
       <br /><br />
       <code>TypeScript</code> <code>SVG</code>
     </td>
-    <td width="33%" valign="top">
+    <td width="25%" valign="top">
       <a href="https://github.com/helenyildirim/sudoku"><img src="assets/sudoku.png" alt="Sudoku game screen" /></a>
       <h3><a href="https://github.com/helenyildirim/sudoku">Sudoku</a></h3>
       Sudoku with difficulty based on solving techniques, explained hints and interactive lessons.
       <br /><br />
-      <code>JavaScript</code> <code>Expo</code>
+      <code>TypeScript</code> <code>Expo</code>
+    </td>
+    <td width="25%" valign="top">
+      <a href="https://github.com/helenyildirim/zigora"><img src="assets/zigora.png" alt="Zigora game screen" /></a>
+      <h3><a href="https://github.com/helenyildirim/zigora">Zigora</a></h3>
+      An arrow puzzle with 350 shaped levels, each checked for a solution by a verifier script.
+      <br /><br />
+      <code>TypeScript</code> <code>Expo Router</code>
     </td>
   </tr>
 </table>
