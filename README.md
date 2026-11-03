@@ -30,6 +30,7 @@ I build mobile games with Expo, React Native and TypeScript, from the visual des
       <code>TypeScript</code> <code>Expo</code>
     </td>
     <td width="25%" valign="top">
+      <a href="https://github.com/helenyildirim/zigora"><img src="assets/zigora-home.png" alt="Zigora home screen" /></a>
       <a href="https://github.com/helenyildirim/zigora"><img src="assets/zigora.png" alt="Zigora game screen" /></a>
       <h3><a href="https://github.com/helenyildirim/zigora">Zigora</a></h3>
       An arrow puzzle with 350 shaped levels, each checked for a solution by a verifier script.
