@@ -4,6 +4,8 @@ I build mobile games with Expo, React Native and TypeScript, from the visual des
 
 **I'm looking for an internship in mobile development.**
 
+[LinkedIn](https://www.linkedin.com/in/helen-y%C4%B1ld%C4%B1r%C4%B1m-b282033a2/)
+
 ## Projects
 
 <table>
